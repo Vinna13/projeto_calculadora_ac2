@@ -131,35 +131,31 @@ projeto_calculadora/
 
 ## 9. Print dos Testes
 
-**Versão original (branch `main`)**
+Versão original
 
 ![alt text](images/refatoracao/image.png)
 
-**Versão refatorada (branch `Refatoracao`)**
+Versão refatorada 
 
-![Print dos testes - versão refatorada](images/refatoracao/testes_refatorado.png)
-
+![Print dos testes - versão refatorada](images/refatoracao/image-1.png)
+![Print dos testes - versão refatorada](images/refatoracao/image.png)
 ---
 
 ## 10. Print do JavaDoc
 
-**Página do pacote `calculadora`**
+Página do pacote calculadora
 
-![Print do JavaDoc - pacote](images/javadoc/javadoc_pacote.png)
+![Print do JavaDoc - pacote](images/javadoc/JavaDoc.png)
+![Print do JavaDoc - pacote](images/javadoc/image.png)
+![Print do JavaDoc - pacote](images/javadoc/image-4.png)
+![Print do JavaDoc - pacote](images/javadoc/image-3.png)
+![Print do JavaDoc - pacote](images/javadoc/image-2.png)
 
-**Página da classe `Calculadora`**
+Classe testeCalculadora
 
-![Print do JavaDoc - classe Calculadora](images/javadoc/javadoc_calculadora.png)
+![Print do JavaDoc - classe Calculadora](images/testes/image-1.png)
+![Print do JavaDoc - classe Calculadora](images/testes/image.png)
 
----
-
-## 13. Versionamento
-
-- `main`: branch principal (versão original + integração final)
-- `Refatoracao`: refatoração, JavaDoc e documentação HTML
-
----
-
-## 14. Link do Repositório
+## 11. Link do Repositório
 
 https://github.com/Vinna13/projeto_calculadora_ac2
